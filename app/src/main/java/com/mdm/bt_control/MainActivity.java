@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
     private Handler mHandler;
     private static final int REQUEST_PERMISSIONS_REQUEST_CODE = 34; // ?
     private static final int REQUEST_ENABLE_BT = 1;
-    private static final long SCAN_TIME = 10000;
+    private static final long SCAN_TIME = 9000;
     private BluetoothDevice mLeDevice;
     private ProgressBar mProgressBar;
     private ImageView mImageView;
